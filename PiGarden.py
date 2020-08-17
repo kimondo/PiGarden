@@ -1,5 +1,6 @@
 #Raspberry Pi Garden version 1.0
 #=======================================================================
+# coding: utf8
 
 # Import the modules needed to run the script.
 import sys, os
